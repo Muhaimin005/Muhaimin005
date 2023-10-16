@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I,m Muhaimin, a third year student at Universiti Teknologi Malaysia
+I'm Muhaimin, a third year student at Universiti Teknologi Malaysia
 
 - 🔭 I’m currently working on Python AI  
 - 🌱 I’m currently learning Github
