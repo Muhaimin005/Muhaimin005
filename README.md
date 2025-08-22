@@ -6,15 +6,21 @@
 
 
 ### Hi there!!!👋👋  
-*<div align="center">I'm **Muhaimin**, a final-year Computer Science (Data Engineering) student at Universiti Teknologi Malaysia, passionate about solving real-world problems through clean, scalable code and data workflows. 🚀
+*<div align="center">I'm **Muhaimin**, a Software Engineer from Nbit Technology. A fresh grad majoring in Computer Science (Data Engineering) student at Universiti Teknologi Malaysia, passionate about solving real-world problems through clean, scalable code and solutions meant to last. 🚀
 </div>*  
 
 ### 👨‍💻 About Me:
-- 🎓 Currently completing my **Final Year Project Industry (FYPi)** focused on building a dynamic data profiling, cleansing and mapping system for data migration
-- 🧠 Learning and building Data Pipeline process in **Python**, and **SQL**
+- 🎓 Fresh Graduate in Computer Science (Data Engineering) from Universiti Teknologi Malaysia
+- 🧠 Learning and building all type of application
 - 📊 Exploring data engineering workflows: data profiling, transformation, validation, and reporting
 - 🧰 Tools I enjoy using: **Pandas**, **YData Profiling**, **Power BI**, **Google Colab**, **MySQL**
-- 📦 Currently improving my GitHub workflow and contributing to personal projects
+- 📦 Always on the journey to improve my GitHub workflow and contributing to personal projects
+
+### 🏆 Milestone:
+- ✅ Completed Internship at Suruhanjaya Syarikat Malaysia (SSM), gaining experience in project management, UAT, data documentation, and event management
+- ✅ Presented and passed Final Year Project Industry (FYPi): A Workflow System for Data Profiling, Cleansing, and Mapping in Data Migration
+- ✅ Started first full-time role (2025) as a Software Engineer involving Microsoft Admin Management, Project Management and software development
+- 🚀 Exploring new frameworks & tools like Frappe.io, django and Zoho to broaden technical skills
 
 ### 💡 Goals:
 - Keep refining my **backend development** and **ETL** skills
@@ -22,7 +28,7 @@
 - Contribute to open-source projects when I can
 
 ### ⚡ Fun Fact:
-I love learning and developing complex data workflows that behave like simple tools.Of course, I’m having fun with it 😄
+I love learning and developing complex data workflows that behave like simple tools.Of course, I’m having fun(I think) with it 😄
 
 
 <br/>  
